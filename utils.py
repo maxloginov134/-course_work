@@ -61,4 +61,4 @@ def get_formatted_data(data):
 {sender_info} {sender_bill} -> Счет {recipiend}
 {amount}
 """)
-        return formatted_data
+    return formatted_data
